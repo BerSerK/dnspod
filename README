@@ -1,0 +1,3 @@
+1. By dnspod.cn's API, this script is used to change the subdomain's dns record to your local ip.
+2. It will list your domains with the domain id, and list the default domain's records with its id.
+3. email, password, domain, and subdomain are required for setting.
